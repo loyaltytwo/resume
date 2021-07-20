@@ -274,3 +274,9 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# MacOS Specific
+.DS_Store
+
+# VS Code Specific
+.vscode
